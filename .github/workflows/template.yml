@@ -80,7 +80,7 @@ jobs:
        env:
          BUTLER_CREDENTIALS: ${{ secrets.ITCH_IO_API_KEY }}
          CHANNEL: HTML
-         ITCH_GAME: vimjam4
+         ITCH_GAME: game-off-2023
          ITCH_USER: brainfartstudio
          BRANCH: itch-io
          PACKAGE: build/WebGL
