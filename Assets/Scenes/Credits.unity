@@ -816,7 +816,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: f944ea0ba1ed56c46b74248672fd0f64, type: 3}
 --- !u!114 &1517639867 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1106377976289041128, guid: f944ea0ba1ed56c46b74248672fd0f64, type: 3}
+  m_CorrespondingSourceObject: {fileID: 6709909810842727032, guid: f944ea0ba1ed56c46b74248672fd0f64, type: 3}
   m_PrefabInstance: {fileID: 1517639866}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -909,7 +909,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1517639867}
-        m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
+        m_TargetAssemblyTypeName: BF_SceneLoader, Assembly-CSharp
         m_MethodName: LoadSceneByName
         m_Mode: 5
         m_Arguments:
